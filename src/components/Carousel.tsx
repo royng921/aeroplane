@@ -48,7 +48,7 @@ const Carousel: React.FC<ImageListProps> = ({ images }) => {
                           >
                             <p className="text-lg font-bold">
                               <span className="text-[#fff]">
-                                {item.className} Waste
+                                {item.className} West
                               </span>
                             </p>
                           </div>

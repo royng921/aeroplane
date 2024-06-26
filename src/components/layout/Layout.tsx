@@ -1,7 +1,6 @@
 import { useRouter } from "next/router";
 import * as React from "react";
 
-import Footer from "./Footer";
 import Header from "./Header";
 import Loading from "@/components/UI/Loading";
 
@@ -29,7 +28,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           <main className="flex-grow my-8 max-w-[1600px] mx-auto">
             {children}
           </main>
-          <Footer />
         </div>
       )}
     </>

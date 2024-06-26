@@ -1,7 +1,6 @@
 import * as React from "react";
 import UnstyledLink from "@/components/links/UnstyledLink";
 import Image from "next/image";
-import { FaGithubSquare } from "react-icons/fa";
 
 export default function Header() {
   return (
@@ -11,16 +10,13 @@ export default function Header() {
           <div className="flex justify-center items-center text-white text-xl mx-2">
             <Image
               alt=""
-              src="https://i.ibb.co/qFZpvXs/logo.png"
+              src="https://i.ibb.co/q0gncXV/image.png"
               width={40}
               height={40}
               objectFit="cover"
             />
-            <span className="mx-2">Waste Sorter</span>
+            <span className="mx-2">PLKWCC</span>
           </div>
-        </UnstyledLink>
-        <UnstyledLink href="https://github.com/Piramilan/Waste-Sorter">
-          <FaGithubSquare className="text-4xl text-white animate-pulse" />
         </UnstyledLink>
       </div>
     </header>
