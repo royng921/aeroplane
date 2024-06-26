@@ -4,19 +4,19 @@ export default function Head() {
   return (
     <NextHead>
       <title>
-        WasteSorter | Teachable Machine Waste Sorter App with Next.js
-        TailwindCSS and TypeScript
+        完美姿勢小夥伴 with Next.js
+        
       </title>
       <meta
         name="description"
-        content="Waste Sorter - Waste Classification App"
+        content="完美姿勢小夥伴 App"
       />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta
         name="description"
-        content="Teachable Machine image classification app for sorting organic and recyclable waste, built with Next.js, TailwindCSS, and TypeScript."
+        content="Teachable Machine image classification app for improving shooting in soccer, built with Next.js, TailwindCSS, and TypeScript."
       />
-      <link rel="icon" href="/favicon.ico" />
+      <link rel="icon" href="/favicon.jpg" />
     </NextHead>
   );
 }
