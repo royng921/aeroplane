@@ -72,7 +72,7 @@ const ImageList: React.FC<ImageListProps> = ({ images }) => {
                       >
                         <p className="text-lg font-bold">
                           <span className="text-[#fff]">
-                            {item.className} west
+                            {item.className} 
                           </span>
                         </p>
                       </div>
