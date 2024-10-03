@@ -4,7 +4,7 @@ export default function Head() {
   return (
     <NextHead>
       <title>
-        完美姿勢小夥伴 with Next.js
+        完美姿勢小夥伴(更完美版)
         
       </title>
       <meta

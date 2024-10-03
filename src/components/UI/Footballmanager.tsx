@@ -14,9 +14,6 @@ const WasteManagement = () => {
           <li>網站即會以內置teachable machine 分析球員射姿，</li>
           <li>並於三方面（擊球點、重腳位置以及身體前後傾角度）</li>
           <li>提供意見及改善建議。</li>
-          <li></li>
-          <li></li>
-          <li></li>
         </ul>
       </div>
       <div className="flex-1 lg:mb-4 xl:ml-3">
@@ -27,12 +24,10 @@ const WasteManagement = () => {
           保良局胡忠中學
         </p>
         <ul className="list-disc mb-4 ml-3 xl:text-[1.25rem]">
-          <li>4K 周啟泰</li>
-          <li>4K 傅顥旻</li>
-          <li>4K 文彥祺</li>
+          <li>5K 周啟泰</li>
+          <li>5K 傅顥旻</li>
+          <li>5K 文彥祺</li>
           <li>領隊老師：吳汝軒</li>
-          <li></li>
-          <li></li>
         </ul>
       </div>
     </div>
