@@ -1,6 +1,6 @@
 import React from "react";
 
-const WasteManagement = () => {
+const FootballManager = () => {
   return (
     <div className="mt-8 lg:mt-20 mx-auto max-w-[85%] xl:max-w-[100%] flex flex-col lg:flex-row lg:w-[80vw] justify-center text-white">
       <div className="flex-1 mb-4 xl:mr-3">
@@ -34,4 +34,4 @@ const WasteManagement = () => {
   );
 };
 
-export default WasteManagement;
+export default FootballManager;

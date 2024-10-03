@@ -59,7 +59,7 @@ export default function ImageUploader() {
   return (
     <div className="max-w-[90vw] lg:max-w-[80vw] mx-auto">
       <h1 className="text-white font-semibold my-6 text-[1.8rem] lg:w-[70vw] max-w-[1250px] mx-auto leading-tight lg:leading-snug md:text-4xl lg:text-5xl md:my-8 lg:mt-14 lg:mb-10 text-center">
-        完美姿勢小夥伴(更完美版)
+        完美姿勢小夥伴(昇華版)
       </h1>
       <div>
         {!(model1&&model2&&model3) ? (
